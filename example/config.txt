@@ -1,0 +1,2 @@
+Prefix plugins/LM/example/
+Plugin LM inputfile parameters.train.txt outputfile output.rds
